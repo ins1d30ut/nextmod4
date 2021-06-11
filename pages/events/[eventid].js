@@ -18,6 +18,7 @@ function EventDetailPage() {
       <ErrorAlert>
         <p>No event found!</p>
       </ErrorAlert>
+      
     );
   }
 
